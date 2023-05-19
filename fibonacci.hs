@@ -35,3 +35,7 @@ nFibo :: Int-> Int
 nFibo n
     | n  == 1 = 2
     |otherwise = auxFibo n 0 1
+
+
+
+--- nao esta funcionado --------
